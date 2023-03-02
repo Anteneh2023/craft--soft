@@ -7,6 +7,9 @@ public class Javasimpel {
 System.out.println("My first branch");
 System.out.println("My first branch");
 System.out.println("My first branch");
+System.out.println("My first branch");
+System.out.println("My first branch");
+System.out.println("My first branch");
 	}
 
 }
